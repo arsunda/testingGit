@@ -1,6 +1,7 @@
 {
 	"name": "pipelineMore",
 	"properties": {
+		"description": "d",
 		"activities": [
 			{
 				"name": "Web1",
