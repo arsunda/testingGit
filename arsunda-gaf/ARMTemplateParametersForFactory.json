@@ -1,9 +1,1 @@
-{
-	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
-	"contentVersion": "1.0.0.0",
-	"parameters": {
-		"factoryName": {
-			"value": "arsunda-gaf"
-		}
-	}
-}
+"{\n\t\"$schema\": \"https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#\",\n\t\"contentVersion\": \"1.0.0.0\",\n\t\"parameters\": {\n\t\t\"factoryName\": {\n\t\t\t\"value\": \"arsunda-gaf\"\n\t\t},\n\t\t\"AzureKeyVault1_properties_typeProperties_baseUrl\": {\n\t\t\t\"value\": \"https://arsundaKV.vault.azure.net/\"\n\t\t},\n\t\t\"AzureStorage1_properties_typeProperties_connectionString_secretName\": {\n\t\t\t\"value\": \"asdfsdf\"\n\t\t}\n\t}\n}"
