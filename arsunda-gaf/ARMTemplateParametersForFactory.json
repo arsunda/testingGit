@@ -1,1 +1,27 @@
-"{\n\t\"$schema\": \"https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#\",\n\t\"contentVersion\": \"1.0.0.0\",\n\t\"parameters\": {\n\t\t\"factoryName\": {\n\t\t\t\"value\": \"arsunda-gaf\"\n\t\t},\n\t\t\"AzureBlob1_properties_typeProperties_fileName\": {\n\t\t\t\"value\": \"s\"\n\t\t},\n\t\t\"AzureBlob1_properties_typeProperties_folderPath\": {\n\t\t\t\"value\": \"s\"\n\t\t},\n\t\t\"AzureBlob2_properties_typeProperties_fileName\": {\n\t\t\t\"value\": \"asd\"\n\t\t},\n\t\t\"AzureBlob2_properties_typeProperties_folderPath\": {\n\t\t\t\"value\": \"ad\"\n\t\t},\n\t\t\"AzureKeyVault1_properties_typeProperties_baseUrl\": {\n\t\t\t\"value\": \"https://arsundaKV.vault.azure.net/\"\n\t\t},\n\t\t\"AzureStorage1_properties_typeProperties_connectionString_secretName\": {\n\t\t\t\"value\": \"storage1\"\n\t\t}\n\t}\n}"
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "arsunda-gaf"
+		},
+		"AzureBlob1_properties_typeProperties_fileName": {
+			"value": "s"
+		},
+		"AzureBlob1_properties_typeProperties_folderPath": {
+			"value": "s"
+		},
+		"AzureBlob2_properties_typeProperties_fileName": {
+			"value": "asd"
+		},
+		"AzureBlob2_properties_typeProperties_folderPath": {
+			"value": "ad"
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://arsundaKV.vault.azure.net/"
+		},
+		"AzureStorage1_properties_typeProperties_connectionString_secretName": {
+			"value": "storage1"
+		}
+	}
+}
