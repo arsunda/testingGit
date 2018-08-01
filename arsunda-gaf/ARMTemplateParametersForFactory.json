@@ -5,12 +5,6 @@
 		"factoryName": {
 			"value": "arsunda-gaf"
 		},
-		"AzureBlob1_properties_typeProperties_fileName": {
-			"value": "s"
-		},
-		"AzureBlob1_properties_typeProperties_folderPath": {
-			"value": "s"
-		},
 		"AzureBlob2_properties_typeProperties_fileName": {
 			"value": "asd"
 		},
