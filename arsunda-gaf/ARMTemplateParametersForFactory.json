@@ -4,18 +4,6 @@
 	"parameters": {
 		"factoryName": {
 			"value": "arsunda-gaf"
-		},
-		"AzureBlob2_properties_typeProperties_fileName": {
-			"value": "asd"
-		},
-		"AzureBlob2_properties_typeProperties_folderPath": {
-			"value": "ad"
-		},
-		"AzureKeyVault1_properties_typeProperties_baseUrl": {
-			"value": "https://arsundaKV.vault.azure.net/"
-		},
-		"AzureStorage1_properties_typeProperties_connectionString_secretName": {
-			"value": "storage1"
 		}
 	}
 }
